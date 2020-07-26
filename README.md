@@ -186,7 +186,7 @@ While applying, do let us know:-
    1. **Why do you want to join this course?**
    2. **What are your expectations from this course?**
 
-# <div align="center">Training period fee - ₹ 2999/- per person</div>
+# <div align="center">Training period fee - ₹ 6999/- per person</div>
 -  Course starts on **20th June 2020 till completion of the challenge OR 25th July 2020**. Whichever comes first.
 -  To maintain the quality of learning **maximum 12 person** in batch is allowed.
 - Last day to apply is **15th June 2020**.
