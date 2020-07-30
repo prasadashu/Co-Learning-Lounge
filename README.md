@@ -40,17 +40,13 @@ death of 1502 out of 2224 passengers. Analysis shows that while some amount of l
 involved, some passengers were more likely to survive than others. Train a machine learning 
 model to predict what sort of people were likely to survive.*
 
-**2. [Credit card fraud detection (Intermediate)](https://www.kaggle.com/mlg-ulb/creditcardfraud)**
+**2. [Predicting a Pulsar Star(Intermediate)](https://www.kaggle.com/pavanraj159/predicting-a-pulsar-star)**
 
-*It is important that credit card companies are able to recognize fraudulent credit card 
-transactions so that customers are not charged for items that they did not purchase. Make 
-your machine learning model learn to detect these anomalous transactions*
+*Pulsars are a rare type of Neutron star that produce radio emission detectable here on Earth. They are of considerable scientific interest as probes of space-time, the inter-stellar medium, and states of matter. Machine learning tools are now being used to automatically label pulsar candidates to facilitate rapid analysis. Classification systems in particular are being widely adopted,which treat the candidate data sets as binary classification problems.*
 
-**3. [Santander’s Customer Satisfaction (Advanced)](https://www.kaggle.com/c/santander-customer-satisfaction)**
+**3. [Chronic KIdney Disease dataset (Intermediate)](https://www.kaggle.com/mansoordaku/ckdisease)**
 
-*From frontline support teams to C-suites, customer satisfaction is a key measure of success. 
-Unhappy customers don't stick around. Work with hundreds of anonymous features to 
-predict if a customer is happy with the transaction.*
+*The data was taken over a 2-month period in India with 25 features ( eg, red blood cell count, white blood cell count, etc). The target is the 'classification', which is either 'ckd' or 'notckd' - ckd=chronic kidney disease. Use machine learning techniques to predict if a patient is suffering from a chronic kidney disease or not*
 
 ## <div align="center"><ins>Exploratory Data Analysis Syllabus- 6-8 hours</ins></div>
 
@@ -135,15 +131,6 @@ training process and thus requires an expertise for model tuning.*
 
 Develop an intuition to streamline the parameter optimization process.
 
-## <div align="center"><ins>Model explainability</ins></div>
-
-1. LIME
-2. DeepLIFT
-3. SHAP
-4. Layer wise Relvance Propagation
-5. Algorithmic Generalization
-6. Feature Importance 
-
 ## <div align="center"><ins>What will you get out of this course?</ins></div>
 
 -  You’ll get to understand the entire machine learning pipeline.
@@ -153,8 +140,7 @@ Develop an intuition to streamline the parameter optimization process.
 -  You’ll be delving into the intricacies of different machine learning algorithms.
 -  You’ll get to understand the nuances of Hyperparameter tuning.
 -  You’ll be getting hands on experience through Weekly Assignments.
--  You’ll be able to reach out to peers and mentors through sync ups occurring twice per week.
--  You’ll be guided throughout the process by our mentors through daily status checks.
+-  You’ll be able to reach out to peers and mentors through sync ups every Wednesday and Friday.
 -  You’ll get to submit your work on Kaggle as a notebook.
 -  You’ll be building a strong LinkedIn profile visible to recruiters.
 -  We will teach you to create the content and increase social media (LinkedIn) presence to build your self brand during the course(If you are interested)
@@ -186,7 +172,9 @@ While applying, do let us know:-
    1. **Why do you want to join this course?**
    2. **What are your expectations from this course?**
 
-# <div align="center">Training period fee - ₹ 6999/- per person</div>
+# <div align="center">Training period fee for beginners- ₹ 4999/- per person</div>
+# <div align="center">Training period fee for intermediate- ₹ 6999/- per person</div>
+
 -  Course starts on **20th June 2020 till completion of the challenge OR 25th July 2020**. Whichever comes first.
 -  To maintain the quality of learning **maximum 12 person** in batch is allowed.
 - Last day to apply is **15th June 2020**.
