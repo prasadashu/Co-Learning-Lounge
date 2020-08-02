@@ -91,14 +91,14 @@ types and distribution of data*
 <U> Delve into the intricacies of the mathematics and mechanism of the functioning of these algorithms: </U>
 
 **Supervised learning**
-    - Linear Regression
-    - Logistic Regression
-    - Decision Trees
-    - SVM
-    - Naive Bayes
-    - Random Forest
-    - XGBoost
-    - LightGBM
+    1. Linear Regression
+    2. Logistic Regression
+    3. Decision Trees
+    4. SVM
+    5. Naive Bayes
+    6. Random Forest
+    7. XGBoost
+    8. LightGBM
     
 ## <div align="center"><ins>Evaluation metrics- 3-4 hours</ins></div>
 
