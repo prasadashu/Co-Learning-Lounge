@@ -91,6 +91,7 @@ types and distribution of data*
 <U> Delve into the intricacies of the mathematics and mechanism of the functioning of these algorithms: </U>
 
 **Supervised learning**
+
     1. Linear Regression
     2. Logistic Regression
     3. Decision Trees
