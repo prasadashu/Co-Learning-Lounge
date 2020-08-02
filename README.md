@@ -90,23 +90,16 @@ types and distribution of data*
 
 <U> Delve into the intricacies of the mathematics and mechanism of the functioning of these algorithms: </U>
 
-1. **Supervised learning**
+**Supervised learning**
     - Linear Regression
     - Logistic Regression
     - Decision Trees
     - SVM
     - Naive Bayes
-    - KNN
     - Random Forest
     - XGBoost
     - LightGBM
     
-<i>Conceptual understanding of Stacking, Bagging and Boosting in Ensemble Learning Technique</i>
-    
-    
-2. **Unsupervised learning**
-    - K Means
-
 ## <div align="center"><ins>Evaluation metrics- 3-4 hours</ins></div>
 
 *A developed model needs to be evaluated for it’s performance before being actually deployed 
