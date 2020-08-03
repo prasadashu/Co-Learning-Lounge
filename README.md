@@ -30,6 +30,19 @@ loops, lists, tuples, dictionary, functions.*
 6. Brief summary of ‘Scikit learn’.
 7. Understanding the problem statement for Kaggle problems.
 
+**Batch Categories**
+
+*For enrollment into any batch a one one discussion session would be scheduled with our team where our team will understand your aspiration for joining this course and your
+understanding about field of Data Science and Kaggle.Based on batch category problems have been categorised accordingly.*
+
+**1. Beginner**
+
+*Begineer batch will consist of people who have knowledge of Data science conceptually and want to transition in this field. Who have worked with small/academic datasets only and want to understand how really world problems are and how to begin with those problems. This batch is for people who are newbies in world of Data Science and want guidance to get their hands dirty with kaggle problems.*
+
+**2. Intermediate**
+
+*Intermediate batch would consist of people who have already embraced the world of Data Science but still afce challenges with real life datasets. One who want to move a step further in Data Science. People who have knowledge and hands on experience in Data Science problem solving. This batch is for people who want to stengthen their skill in Data Science by plunging in complex kaggle problem solving.*
+
 Problems to be undertaken:-
 
 
