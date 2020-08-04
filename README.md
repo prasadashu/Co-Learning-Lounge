@@ -41,7 +41,7 @@ understanding about field of Data Science and Kaggle.Based on batch category pro
 
 **2. Intermediate**
 
-*Intermediate batch would consist of people who have already embraced the world of Data Science but still afce challenges with real life datasets. One who want to move a step further in Data Science. People who have knowledge and hands on experience in Data Science problem solving. This batch is for people who want to stengthen their skill in Data Science by plunging in complex kaggle problem solving.*
+*Intermediate batch would consist of people who have already embraced the world of Data Science but still face challenges with real life datasets. One who wants to move a step further in Data Science. People who have knowledge and hands on experience in Data Science problem solving. This batch is for people who want to stengthen their skill in Data Science by plunging in complex kaggle problem solving.*
 
 Problems to be undertaken:-
 
